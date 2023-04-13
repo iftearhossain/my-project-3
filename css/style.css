@@ -1,0 +1,40 @@
+.pic-1{
+	border: 5px solid;
+}
+.name{
+	height: 50px;
+	width: 400px;
+	background-color: whitesmoke;
+	text-align: left;
+	margin: 5px 5px;
+}
+
+.message{
+	    height: 105px;
+   		width: 378px;
+  		background-color: whitesmoke;
+  		color: black;
+ 	    padding: 5px 10px;
+ 	    text-align: left;
+ 	    margin: 5px 5px;
+}
+.email{
+		height: 50px;
+	width: 400px;
+	background-color: whitesmoke;
+	text-align: left;
+	margin: 5px 5px;
+}
+.password{
+	height: 50px;
+	width: 400px;
+	background-color: whitesmoke;
+	text-align: left;
+	margin: 5px 5px;
+}
+.phone{
+	height: 50px;
+	width: 400px;
+	background-color: whitesmoke;
+	text-align: left;
+}
